@@ -4,3 +4,6 @@
 *.env
 *.png
 *.jpeg
+
+/.quarto/
+/_site/
