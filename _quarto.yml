@@ -19,7 +19,7 @@ website:
       - text: "The Sett"
         href: file:///Users/lund/Projects/The_Sett/_site/index.html
       - text: "About"
-        href: http://buffalobadger.github.io/about.html
+        href: file:///Users/lund/Projects/BuffaloBadger.github.io/_site/about.html 
   search:
     location: navbar
     type: overlay
