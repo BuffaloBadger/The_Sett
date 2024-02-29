@@ -28,13 +28,13 @@ website:
     right: 
       - text: Copyright 2024, Carl Lund 
   favicon: graphics/BuffaloBadger_16_16.png
-  sidebar:
-    style: floating
-    search: false
-    collapse-level: 1
-    contents: 
-      - text: "Welcome"
-        href: index.qmd
+  #sidebar:
+  #  style: floating
+  #  search: false
+  #  collapse-level: 1
+  #  contents: 
+  #    - text: "Welcome"
+  #      href: index.qmd
 
 format:
   html:
