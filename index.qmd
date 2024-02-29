@@ -1,9 +1,25 @@
+---
+listing:
+  id: 2024_listings
+  contents: 2024_posts
+  sort: "date asc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 5
+page-layout: full
+title-block-banner: true
+---
 
 {{< include includes/_top_logo.qmd >}}
 
-## Welcome! {.ch}
+## Welcome to The Sett! {.ch2}
 
-[add welcome message]
+The rest of the [Buffalo]{style="color:blue"}[Badger]{style="color:red"} site is pretty focused on reaction engineering and engineering education. The Sett is where I rant, rave, pontificate, or simply share about anything **other than** reaction engineering and engineering education. 
+
+::: {#2024_listings}
+:::
 
 ## License {.ch}
 
