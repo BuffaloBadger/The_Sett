@@ -1,0 +1,30 @@
+---
+title: "How About That Logo?"
+author: "BuffaloBadger"
+date: "2024-03-24"
+categories: [AI]
+draft: false
+---
+
+![](../../graphics/BB_sett_logo.jpeg){fig-align="center" width="40%"}
+
+I wanted a logo for The Sett before I went live with it. The other sections of the site have pretty simple logos. Thay are just text over a simple graphic or over a photo. For the Sett, I knew what I wanted: a view from outside a badger sett looking in with the inside nicely decorated and having comfortable functure, a bar, a TV, etc. The problem was, I don't have anywhere near the artistic skills that would be required to draw something like that.
+
+I thought about asking my daughter to draw something for me. She definitely has the artistic ability to do so, but she's also got a full life and I didn't want to impose upon her. Then I thought about trying to Photoshop something. Maybe get a picture of a badger sett and then replace the opening with a picture of a nice den or family room. I did try to find appropriate photos, but wasn't happy with what I found.
+
+Then a month or so ago, I discovered that I have access to Microsoft Copilot through work. So one Friday evening I thought what the heck and gave Copilot a try. I started out with a simple request, something along the lines of "can you draw a picture of a badger sett from the outside looking in to a nice family room." I was truly amazed with the result. So then I played around asking for revisions. I think Copilot suggested adding the pool table and/or the bar. I'm guessing I spent an hour or so playing around with it.
+
+Almost all of the pictures had a badger above the sett (see below), and I didn't like that in most of them. I tried to get copilot to take them out, but wasn't very successful. I also tried to get a sign or mailbox outside of the entrance that had "BuffaloBadger," "BuffaloBadger's Sett," or just "The Sett" on it, but couldn't get that to work either. Nonetheless, I'm really impressed with the capabilities Microsoft Copilot exhibited.
+
+So thanks to AI, I now have a logo and can go live with the site. Some day when I have time to kill (yeah, like that day will every come!!) I may go back and try to tweak it some, but I must say that for now I'm quite happy with this logo. A few of the others that copilot generated are shown below.
+
+::: {layout-nrow="1"}
+
+![](badger_sett.jpeg)
+
+![](badger_sett_2.jpeg)
+
+![](badger_sett_3.jpeg)
+
+:::
+A few other badger sett images generated using Microsoft copilot.
